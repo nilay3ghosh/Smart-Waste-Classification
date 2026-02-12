@@ -1,0 +1,10 @@
+data/
+data_raw/
+models/
+runs/
+__pycache__/
+*.keras
+*.h5
+*.tflite
+*.pyc
+yolov5/
